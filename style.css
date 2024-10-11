@@ -1,0 +1,68 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: #fff;
+  }
+  
+
+/* Custom background for the body */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Custom styles for navigation bar */
+.navbar-custom {
+    background-color: #007bff;
+    border-radius: 0.25rem;
+}
+
+.nav-link-custom {
+    color: #ffffff !important;
+    padding: 0.75rem 1.25rem;
+}
+
+/* Style the form elements */
+.form-control-custom {
+    border-radius: 0.25rem;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Custom card style */
+.card-custom {
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer customization */
+.footer-custom {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+}
